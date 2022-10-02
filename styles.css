@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: bisque;
+    color: cadetblue;
+}
+
+label {
+    display: block;
+    padding-bottom: 1rem;
+}
+
+#output-box{
+    padding: 60px;
+    margin: auto;
+    height: 50px;
+    width: 30%;
+    background-color: white;
+    margin-top: 40px;
+    border: solid 3px cadetblue;
+    border-radius: 20px;
+}
+button{
+    cursor: pointer;
+    color: cadetblue;
+    border: solid 1px cadetblue;
+    border-radius: 5px;
+    background-color: white;
+}
